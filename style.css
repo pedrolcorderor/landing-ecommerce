@@ -117,7 +117,7 @@ p {
   /* width: 90vw; */
   height: 50rem;
   background-color: #7e001b;
-  margin-top: 8rem;
+  
 }
 
 /* AUTOR */
@@ -206,4 +206,57 @@ p {
   width: 90vw;
   height: 8rem;
   background-color: #2e0b3b;
+}
+
+/* .titulo-2 {
+    
+  margin:0 auto;
+  margin-top:5rem;
+  width: 25rem;
+    height: 100px;
+    background-color: #2e0b3b;
+    
+} */
+.contenedor-De-info2{
+  padding: 60px 0;
+  width: 90%;
+  display: flex;
+  height: 90%;
+  justify-content: space-evenly;
+  margin: 0px auto;
+  align-items: center;
+}
+.imagen-2{
+  width: 40%;
+  height: 400px;
+  background-color: #2e0b3b;
+  
+
+}
+.contenedor-De-texto2{
+  width: 40%;
+  background-color:#2e0b3b;
+  height: 400px;
+}
+.titulo-texto{
+    background-color: #e9dd3e;
+    width: 100%;
+    height: 3rem;
+    
+}
+.parrafo-2{
+  width: 100%;
+  height: 17.5rem;
+  background-color: aqua;
+}
+.botom{
+  background-color: #7e001b;
+  width: 8rem;
+  height: 40px;
+  border-radius: 40px;
+  float:right;
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 20px;
+  margin-top: 18px;
 }
