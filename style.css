@@ -70,6 +70,8 @@ p {
   display: grid;
   justify-items: center;
   position: fixed;
+  z-index: 1;
+  /* Pedro: le coloco el z-index para que este sea superior. */
 }
 /* Contenedores */
 .container-lc {
@@ -186,6 +188,7 @@ p {
   width: 2rem;
   height: 2rem;
   /* background-color: #2e0b3b; */
+  z-index: 0;
 }
 .left {
   width: 0;
